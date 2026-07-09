@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Haileamlak Goraw
 
 **Software Engineer | Full-Stack & AI Systems**
-📍 From Ethiopia 🇪🇹 | Based in Italy 🇮🇹
+📍 From Ethiopia :ethiopia: | Based in Italy :it:
 
 I am a backend-focused Full-Stack Engineer and Computer Engineering graduate from Politecnico di Torino. I specialize in bridging the gap between scalable web infrastructure and modern frontier AI models. I enjoy building the orchestrators, retrieval pipelines, and API gateways that make AI integrations robust and production-ready.
 
