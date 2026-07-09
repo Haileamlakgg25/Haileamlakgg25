@@ -37,6 +37,6 @@ I am a backend-focused Full-Stack Engineer and Computer Engineering graduate fro
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=haileamlakgg25&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
