@@ -23,7 +23,7 @@ I am a backend-focused Full-Stack Engineer and Computer Engineering graduate fro
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
 
-- **AI & Machine Learning:** OpenAI API, Anthropic API, LangChain, LlamaIndex, Vector Databases  
+- **AI Integrations & Frameworks:** OpenAI API, Anthropic API(Claude), LangChain, LlamaIndex, Vector Databases  
   <br>
   ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
   ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square)
