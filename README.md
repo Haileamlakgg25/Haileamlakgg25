@@ -7,17 +7,20 @@ I am a backend-focused Full-Stack Engineer and Computer Engineering graduate fro
 
 ### 💻 Core Tech Stack
 
-- **Languages:** TypeScript, JavaScript, SQL
-  <br>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+- **Frontend Development:** React, TypeScript, JavaScript
+  <br>![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
-- **Backend & Data:** Node.js, Express, PostgreSQL, REST APIs
-  <br>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+- **Backend & Architecture:** Node.js, Python, SQL, API Gateway Design, Request Orchestration, RESTful APIs
+  <br>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-- **Frontend:** React.js
-  <br>![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+- **AI & Machine Learning:** OpenAI API, Anthropic API (Claude), LangChain, LlamaIndex, Vector Databases
+  <br>![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 
-- **AI Integration:** RAG Pipelines, Agentic Workflows, LLM Orchestration, Vector Search
-  <br>![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-000000.svg?style=flat-square&logo=json&logoColor=white)
+- **AI Core Competencies:** Retrieval-Augmented Generation (RAG), Agentic Workflows, LLM Orchestration, Deep Learning Concepts, Hybrid Search
+  <br>![LLMs](https://img.shields.io/badge/LLMs-FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_Pipelines-000000.svg?style=flat-square&logo=json&logoColor=white)
+
+- **Cloud, Tools & Deployment:** Vercel, Git, GitHub
+  <br>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -41,3 +44,4 @@ I am a backend-focused Full-Stack Engineer and Computer Engineering graduate fro
     <img src="https://github-readme-stats.vercel.app/api?username=haileamlakgg25&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" />
   </a>
 </div>
+
