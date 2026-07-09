@@ -1,6 +1,3 @@
-Got it. I have completely removed the "Beyond the Keyboard" and "Highlighted Architecture" sections so the profile stays strictly focused on your current work, core skills, and learning.
-I also updated the "Let's Connect" section to display the exact raw links you provided, while formatting them so they are still clickable for anyone visiting your profile.
-Here is your streamlined README code:
 # Hi there 👋 I'm Haileamlak Goraw Goshu
 
 **Software Engineer | Full-Stack & AI Systems**<br>
