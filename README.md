@@ -20,4 +20,4 @@ I am a backend-focused Full-Stack Engineer and Computer Engineering graduate fro
   
 ### 📫 Let's Connect
 - **LinkedIn:** [www.linkedin.com/in/haileamlak-goraw-goshu-279b83197]
-- **Blog:** [the-latent-space-phi.vercel.app]
+- **Blog:** [https://the-latent-space-phi.vercel.app/]
