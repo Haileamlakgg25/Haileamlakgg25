@@ -1,9 +1,16 @@
 # Hi there 👋 I'm Haileamlak Goraw Goshu
 
-**Software Engineer | Full-Stack & AI Systems**<br>
+<h3 align="left">
+  <span style="color:#16A34A;">Software Engineer</span>
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=800&color=16A34A&vCenter=true&width=500&lines=%E2%96%B9+Architecting+Scalable+Backend+Systems;%E2%96%B9+Integrating+AI+%26+RAG+Pipelines)](https://git.io/typing-svg)
+
 📍 From Bahir Dar, Ethiopia <img src="https://flagcdn.com/w20/et.png" width="18" alt="Ethiopia"> | Based in Turin, Italy <img src="https://flagcdn.com/w20/it.png" width="18" alt="Italy">
 
 I am a backend-focused Full-Stack Engineer and Computer Engineering graduate from Politecnico di Torino. I specialize in bridging the gap between scalable web infrastructure and modern frontier AI models. I enjoy building the orchestrators, retrieval pipelines, and API gateways that make AI integrations robust and production-ready.
+
+Outside the terminal, I enjoy exploring aesthetic and fashion photography. It's a fun creative outlet, and I've a strong appreciation for clean visuals and fine details.
 
 ---
 
