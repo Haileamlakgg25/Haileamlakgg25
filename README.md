@@ -38,7 +38,6 @@ I am a backend-focused Full-Stack Engineer and Computer Engineering graduate fro
 
 <div align="center">
   <a href="https://github.com/haileamlakgg25">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haileamlakgg25&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=haileamlakgg25&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" />
   </a>
 </div>
-
