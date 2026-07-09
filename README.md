@@ -66,14 +66,14 @@ I am a backend-focused Full-Stack Engineer and Computer Engineering graduate fro
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=haileamlakgg25&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    alt="Haileamlak's GitHub Stats" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=haileamlakgg25&theme=radical&hide_border=true" 
+    alt="Haileamlak's GitHub Streak" 
   />
 
   <br><br>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileamlakgg25&layout=compact&theme=radical&hide_border=true" 
+    src="https://haileamlak-github-readme-stats.vercel.app/api/top-langs/?username=haileamlakgg25&layout=compact&theme=radical&hide_border=true" 
     alt="Haileamlak's Top Languages" 
   />
 
