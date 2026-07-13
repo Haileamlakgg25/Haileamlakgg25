@@ -1,3 +1,13 @@
+<div align="center">
+  <img 
+    src="./assets/gitbanner.png" 
+    alt="Haileamlak Goraw Goshu futuristic AI systems banner" 
+    width="100%" 
+  />
+</div>
+
+<br>
+
 # Hi there 👋 I'm Haileamlak Goraw Goshu
 
 <h3 align="left">
