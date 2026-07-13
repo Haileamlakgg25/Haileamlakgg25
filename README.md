@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="./assets/gitbanner.png" 
+    src="./assets/hero-banner.png" 
     alt="Haileamlak Goraw Goshu futuristic AI systems banner" 
     width="100%" 
   />
@@ -8,91 +8,202 @@
 
 <br>
 
-# Hi there 👋 I'm Haileamlak Goraw Goshu
+<table>
+  <tr>
+    <td width="33%" valign="top">
 
-<h3 align="left">
-  <span style="color:#16A34A;">Software Engineer</span>
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=100000&color=00FF99&vCenter=true&repeat=false&width=340&height=35&lines=1+CORE+TECH+STACK" alt="Core Tech Stack" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=800&color=16A34A&vCenter=true&width=500&lines=%E2%96%B9+Architecting+Scalable+Backend+Systems;%E2%96%B9+Integrating+AI+%26+RAG+Pipelines)](https://git.io/typing-svg)
+<br><br>
 
-📍 From Bahir Dar, Ethiopia <img src="https://flagcdn.com/w20/et.png" width="18" alt="Ethiopia"> | Based in Turin, Italy <img src="https://flagcdn.com/w20/it.png" width="18" alt="Italy">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,postgres,git,github,vercel" alt="Core tech stack icons" />
+</p>
 
-I am a backend-focused Full-Stack Engineer and Computer Engineering graduate from Politecnico di Torino. I specialize in bridging the gap between scalable web infrastructure and modern frontier AI models. I enjoy building the orchestrators, retrieval pipelines, and API gateways that make AI integrations robust and production-ready.
+<br>
 
-Outside the terminal, I enjoy exploring aesthetic and fashion photography. It's a fun creative outlet, and I have a strong appreciation for clean visuals and fine details. I'm also a big fan of traveling, discovering new places, and meeting people from all over the world. 
+<p>
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=6DA55F" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=316192" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
+</td>
+<td width="33%" valign="top">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=100000&color=00FF99&vCenter=true&repeat=false&width=470&height=35&lines=2+AI+INTEGRATIONS+%26+FRAMEWORKS" alt="AI Integrations and Frameworks" />
 
-### 💻 Core Tech Stack
+<br><br>
 
-- **Frontend Development:** React, TypeScript, JavaScript  
-  <br>
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-0D1117?style=for-the-badge&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/LlamaIndex-0D1117?style=for-the-badge&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Pinecone-0D1117?style=for-the-badge&logo=pinecone&logoColor=00FF99" />
+</p>
 
-- **Backend & Architecture:** Node.js, Express.js, Python, SQL, API Gateway Design, Request Orchestration, RESTful APIs  
-  <br>
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white)
+<br>
 
-- **AI Integrations & Frameworks:** OpenAI API, Anthropic API(Claude), LangChain, LlamaIndex, Vector Databases  
-  <br>
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=OpenAI&logoColor=white)
-  ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-  ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square)
-  ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Vector%20Databases-0D1117?style=for-the-badge&logo=databricks&logoColor=00FF99" />
+</p>
 
-- **AI Core Competencies:** RAG, Agentic Workflows, LLM Orchestration, Deep Learning Concepts, Hybrid Search  
-  <br>
-  ![LLMs](https://img.shields.io/badge/LLMs-FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
-  ![RAG](https://img.shields.io/badge/RAG_Pipelines-000000.svg?style=flat-square&logo=json&logoColor=white)
-  ![Agents](https://img.shields.io/badge/AI_Agents-4B0082.svg?style=flat-square)
-  ![Vector Search](https://img.shields.io/badge/Vector_Search-0A66C2.svg?style=flat-square)
+<p>
+  Retrieval pipelines · Embeddings · Semantic search · AI orchestration
+</p>
 
-- **Cloud, Tools & Deployment:** Vercel, Git, GitHub  
-  <br>
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=100000&color=00FF99&vCenter=true&repeat=false&width=410&height=35&lines=3+AI+CORE+COMPETENCIES" alt="AI Core Competencies" />
 
-### 🌱 Exploring & Learning
+<br><br>
 
-- **Artificial Intelligence:** Studying the broader AI ecosystem, from foundational theories to modern generative applications and their integration into enterprise software.
-- **Deep Learning & Neural Networks:** Understanding foundational architectures, multi-layer perceptrons, and backpropagation optimization.
-- **Machine Learning Fundamentals:** Exploring statistical learning, feature engineering, and model evaluation techniques to build stronger data pipelines.
-- **Advanced LLMs & Transformers:** Deepening my knowledge of attention mechanisms, tokenization, contextual embeddings, and local model deployment.
-- **AI Agent Frameworks & MLOps:** Experimenting with multi-agent orchestration, state management in agentic workflows, and basic model deployment pipelines.
+<p>
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=json&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Agentic_Workflows-0D1117?style=for-the-badge&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-0D1117?style=for-the-badge&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Deep_Learning-0D1117?style=for-the-badge&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Hybrid_Search-0D1117?style=for-the-badge&logoColor=00FF99" />
+</p>
 
----
+<br>
 
-### 📫 Let's Connect
+<p>
+  Retrieval, indexing, embeddings, vector search, reranking, and context-aware generation.
+</p>
 
-- **LinkedIn:** [www.linkedin.com/in/haileamlak-goraw-goshu-279b83197](https://www.linkedin.com/in/haileamlak-goraw-goshu-279b83197)
-- **Blog:** [the-latent-space-phi.vercel.app](https://the-latent-space-phi.vercel.app/)
+</td>
+  </tr>
 
----
+  <tr>
+    <td width="33%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=100000&color=00FF99&vCenter=true&repeat=false&width=390&height=35&lines=4+EXPLORING+%26+LEARNING" alt="Exploring and Learning" />
+
+<br><br>
+
+<p>
+  ▹ AI, Deep Learning & Neural Networks<br>
+  ▹ Machine Learning Fundamentals<br>
+  ▹ Advanced LLMs & Transformers<br>
+  ▹ AI Agent Frameworks & MLOps<br>
+  ▹ Systems Design for Scalable AI Applications
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=100000&color=00FF99&vCenter=true&repeat=false&width=290&height=35&lines=5+BEYOND+CODE" alt="Beyond Code" />
+
+<br><br>
+
+<p>
+  Aesthetic & fashion photography.<br>
+  Traveling the world. Discovering new places.<br>
+  Meeting people from every culture.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/photography.png" width="31%" alt="Photography" />
+  <img src="./assets/travel.png" width="31%" alt="Travel" />
+  <img src="./assets/city.png" width="31%" alt="City" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Photography-0D1117?style=flat-square&logo=camera&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Fashion-0D1117?style=flat-square&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/Travel-0D1117?style=flat-square&logo=airplane&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/New%20Places-0D1117?style=flat-square&logo=googlemaps&logoColor=00FF99" />
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=100000&color=00FF99&vCenter=true&repeat=false&width=290&height=35&lines=6+LET%27S+CONNECT" alt="Let's Connect" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/haileamlak-goraw-goshu-279b83197">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+<a href="mailto:haileamlak.gg25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF99" alt="Email" />
+</a>
+
+<br><br>
+
+<a href="https://the-latent-space-phi.vercel.app/">
+  <img src="https://img.shields.io/badge/The%20Latent%20Space-0D1117?style=for-the-badge&logo=vercel&logoColor=00FF99" alt="The Latent Space" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Turin,%20Italy-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF99" alt="Turin, Italy" />
+
+</td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=haileamlakgg25&theme=radical&hide_border=true" 
-    alt="Haileamlak's GitHub Streak" 
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=100000&color=00FF99&center=true&vCenter=true&repeat=false&width=400&height=35&lines=SYSTEM+TELEMETRY" alt="System Telemetry" />
 
-  <br><br>
+<br><br>
 
-  <img 
-    src="https://haileamlak-github-readme-stats.vercel.app/api/top-langs/?username=haileamlakgg25&layout=compact&theme=radical&hide_border=true" 
-    alt="Haileamlak's Top Languages" 
-  />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=haileamlakgg25&theme=radical&hide_border=true" 
+  alt="Haileamlak's GitHub Streak" 
+/>
+
+<br><br>
+
+<img 
+  src="https://haileamlak-github-readme-stats.vercel.app/api/top-langs/?username=haileamlakgg25&layout=compact&theme=radical&hide_border=true" 
+  alt="Haileamlak's Top Languages" 
+/>
 
 </div>
+
+<br>
+
+<details>
+  <summary><b>More system details</b></summary>
+
+<br>
+
+<b>Core Tech Stack</b><br>
+React · TypeScript · JavaScript · Node.js · Express.js · Python · PostgreSQL · SQL · Git · GitHub · Vercel
+
+<br><br>
+
+<b>AI Integrations & Frameworks</b><br>
+OpenAI · Anthropic Claude · LangChain · LlamaIndex · Pinecone · Vector Databases
+
+<br><br>
+
+<b>AI Core Competencies</b><br>
+Retrieval-Augmented Generation · Agentic Workflows · LLM Orchestration · Deep Learning Concepts · Hybrid Search
+
+<br><br>
+
+<b>Exploring & Learning</b><br>
+Artificial Intelligence · Deep Learning & Neural Networks · Machine Learning Fundamentals · Advanced LLMs & Transformers · AI Agent Frameworks & MLOps · Systems Design for Scalable AI Applications
+
+</details>
