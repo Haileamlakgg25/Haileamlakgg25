@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="./assets/Hero-banner.png" 
+    src="./assets/hero-banner.png" 
     alt="Haileamlak Goraw Goshu futuristic AI systems banner" 
     width="100%" 
   />
